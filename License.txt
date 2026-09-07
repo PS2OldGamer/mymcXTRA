@@ -1,0 +1,32 @@
+Freeware license readme
+
+This software is provided as Freeware. You can download, install, and use this software
+completely free of charge for personal, educational, or other non-commercial purposes, subject to 
+the terms outlined below.
+
+License Agreement
+
+1. Grant of License
+
+The author grants you a non-exclusive, non-transferable, royalty-free license to use this
+software on your compatible devices.
+
+2. Restrictions
+
+No Modification: You may not decompile, reverse engineer, disassemble, or modify
+the software binaries.
+No Redistribution for Profit: You may not sell, rent, lease, or charge fees for
+distributing this software.
+Bundling: You may not bundle this software with other commercial packages without
+explicit written permission from the copyright holder.
+
+3. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS". WITHOUT WARRANTY OF ANY KIND.
+EXPRESS OR IMPLIED.
+
+4. Termination
+
+This license terminates automatically if you fail to comply with any of its terms. Upon
+termination, you must destroy all copies of the software in your possession.
+Copyright (c) 2026 [M Wiggins AKA Wigs]. All rights reserved.
