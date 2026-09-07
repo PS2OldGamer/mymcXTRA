@@ -1,7 +1,3 @@
-This is a freeware binary release. The 'Source code' zip files generated automatically by 
-GitHub contain only documentation, not the source files. Please download the 
-mymcXTRA.exe asset below.
-
 Freeware license readme
 
 This software is provided as Freeware. You can download, install, and use this software
