@@ -1,4 +1,3 @@
-README
 Freeware license readme
 
 This software is provided as Freeware. You can download, install, and use this software
@@ -21,23 +20,12 @@ distributing this software.
 Bundling: You may not bundle this software with other commercial packages without
 explicit written permission from the copyright holder.
 
-3. Ownership
-
-The software, including all copyrights and intellectual property rights, remains the exclusive
-property of the author. This agreement does not transfer any ownership rights to you.
-
-4. Disclaimer of Warranty
+3. Disclaimer of Warranty
 
 THE SOFTWARE IS PROVIDED "AS IS". WITHOUT WARRANTY OF ANY KIND.
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
-BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THЕ
-SOFTWARE
+EXPRESS OR IMPLIED.
 
-5. Termination
+4. Termination
 
 This license terminates automatically if you fail to comply with any of its terms. Upon
 termination, you must destroy all copies of the software in your possession.
