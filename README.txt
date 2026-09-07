@@ -36,8 +36,7 @@ commercial, or institutional use is strictly prohibited without written consent.
 
 Redistribution
 You are free to redistribute this software, provided that: It is shared in its original, 
-unmodified package.No fees or charges are applied to the recipient.
-This README/License file is included in the distribution.
+unmodified package. No fees or charges are applied to the recipient.
 
 Restrictions
 Do not modify, decompile, reverse engineer, or disassemble the binaries. Do not host the files 
