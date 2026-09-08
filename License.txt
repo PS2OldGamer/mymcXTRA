@@ -13,12 +13,8 @@ software on your compatible devices.
 
 2. Restrictions
 
-No Modification: You may not decompile, reverse engineer, disassemble, or modify
-the software binaries.
-No Redistribution for Profit: You may not sell, rent, lease, or charge fees for
-distributing this software.
-Bundling: You may not bundle this software with other commercial packages without
-explicit written permission from the copyright holder.
+You may not decompile, reverse engineer, disassemble, or modify the software binaries.
+You may not sell, rent, lease, or charge fees for distributing this software.
 
 3. Disclaimer of Warranty
 
